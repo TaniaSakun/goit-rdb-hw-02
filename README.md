@@ -6,8 +6,8 @@ Homework Description
 1. Transform the original table into the first normal form.
 2. Transform the new tables into the second normal form.
 3. Transform the new tables into the third normal form.
+
    <img width="509" alt="dz_2_Sakun_Datatable_Structures" src="https://github.com/user-attachments/assets/f3219f7a-fec7-4704-9102-640270548e9a">
-   
 4. Develop an ER diagram of the resulting tables.
    <img width="699" alt="dz_2_Sakun_ER_Diagram" src="https://github.com/user-attachments/assets/3b2c066a-0466-4f18-abd2-fcf8138605f4">
    
